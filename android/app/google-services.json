@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974146490061",
+    "project_id": "masarat-2072e",
+    "storage_bucket": "masarat-2072e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974146490061:android:cbf907fd2d0386f069e384",
+        "android_client_info": {
+          "package_name": "com.example.masarat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974146490061-5ai20qpfvlh5oagkt502b5bluje3j5nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkXo6Au1K2CyYyTHABIlb8T7qCQ9HYUjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974146490061-5ai20qpfvlh5oagkt502b5bluje3j5nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
